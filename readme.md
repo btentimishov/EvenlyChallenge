@@ -19,16 +19,16 @@ Add Foursquare API and Google Maps API Tokens:
 
 <div style="display: flex; flex-wrap: wrap;">
     <div style="margin: 10px;">
-        <img src="images/pois.png" alt="Map with pois" width="250"/>
-        <p style="text-align: center;">Map with pois</p>
+        <img src="images/pois.png" alt="Map with pois" width="150"/>
+        <p style="text-align: center;">Map with POIs</p>
     </div>
     <div style="margin: 10px;">
-        <img src="images/poi_dialog.png" alt="Dialog opens when POI is clicked" width="250"/>
-        <p style="text-align: center;">Dialog opens when POI is clicked</p>
+        <img src="images/poi_dialog.png" alt="Dialog opens when POI is clicked" width="150"/>
+        <p style="text-align: center;">POI Dialog</p>
     </div>
     <div style="margin: 10px;">
-        <img src="images/sharelink.png" alt="Share link option" width="250"/>
-        <p style="text-align: center;">Share view appears, when "Share" button clicked</p>
+        <img src="images/sharelink.png" alt="Share link option" width="150"/>
+        <p style="text-align: center;">Share view appears</p>
     </div>
 </div>
 
@@ -36,12 +36,12 @@ Add Foursquare API and Google Maps API Tokens:
 
 <div style="display: flex; flex-wrap: wrap;">
     <div style="margin: 10px;">
-        <img src="images/detail_info.png" alt="POI detail Screen" width="250"/>
+        <img src="images/detail_info.png" alt="POI detail Screen" width="150"/>
         <p style="text-align: center;">POI detail Screen</p>
     </div>
     <div style="margin: 10px;">
-        <img src="images/details_shares.png" alt="Share link option" width="250"/>
-        <p style="text-align: center;">Share view appears, when "Share link" button cl</p>
+        <img src="images/details_shares.png" alt="Share link option" width="150"/>
+        <p style="text-align: center;">Share view appears</p>
     </div>
 </div>
 
@@ -49,11 +49,11 @@ Add Foursquare API and Google Maps API Tokens:
 
 <div style="display: flex; flex-wrap: wrap;">
     <div style="margin: 10px;">
-        <img src="images/evenly_top.png" alt="Top part" width="250"/>
+        <img src="images/evenly_top.png" alt="Top part" width="150"/>
         <p style="text-align: center;">Top part</p>
     </div>
     <div style="margin: 10px;">
-        <img src="images/evenly_bottom.png" alt="Bottom part" width="250"/>
+        <img src="images/evenly_bottom.png" alt="Bottom part" width="150"/>
         <p style="text-align: center;">Bottom part</p>
     </div>
 </div>
