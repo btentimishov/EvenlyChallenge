@@ -49,11 +49,11 @@ Add Foursquare API and Google Maps API Tokens:
 
 <div style="display: flex; flex-wrap: wrap;">
     <div style="margin: 10px;">
-        <img src="images/evenly_top.png" alt="Top part" width="250"/>
+        <img src="images/evenly_bottom.png" alt="Top part" width="250"/>
         <p style="text-align: center;">Top part</p>
     </div>
     <div style="margin: 10px;">
-        <img src="images/evenly_bottom.png" alt="Bottom part" width="250"/>
+        <img src="images/evenly_top.png" alt="Bottom part" width="250"/>
         <p style="text-align: center;">Bottom part</p>
     </div>
 </div>
